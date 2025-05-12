@@ -30,7 +30,7 @@ templates = Jinja2Templates(directory="templates")
 recognizer = sr.Recognizer()
 
 # Set ElevenLabs API key
-ELEVENLABS_API_KEY = "sk_5a35a1ef27ebd0a209d2d22db79e3e6960de8521ab24c187"
+ELEVENLABS_API_KEY = "use yours"
 set_api_key(ELEVENLABS_API_KEY)
 
 # Zoro-style responses
